@@ -8,7 +8,7 @@ A web-based tool to help standardize file naming for CDC documents. This tool he
 
 ## Usage
 
-Visit [https://your-github-username.github.io/cdc-naming-conventions/](https://your-github-username.github.io/cdc-naming-conventions/)
+Visit [https://emmalurie.github.io/cdc-naming-conventions/](https://emmalurie.github.io/cdc-naming-conventions/)
 
 1. Select your document type
 2. Fill in the required fields:
